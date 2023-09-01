@@ -60,16 +60,16 @@ body {
 
 .demo-3 {
 	--color-text: #292725;
-	--color-bg: #dad4d1;
-	--color-link: #a99c90;
-	--color-link-hover: #292725;
+	--color-bg: #191613;
+	--color-link: #ddd;
+	--color-link-hover: #333;
 	--color-font-circle: #7b7772;
-	--color-button: #a99c90;
-	--color-text-button: #272524;
-	--color-text-circle-1: #272524;
-	--color-text-circle-2: #272524;
-	--color-text-circle-3: #272524;
-	--color-text-circle-4: #272524;
+	--color-button: #292725;
+	--color-text-button: #ddd;
+	--color-text-circle-1: #d0d0d0;
+	--color-text-circle-2: #d8d8d8;
+	--color-text-circle-3: #d4d4d4;
+	--color-text-circle-4: #d2d2d2;
 	--font-circle-1: modesto-condensed, serif;
 	--font-weight-circle-1: 400;
 	--font-circle-2: ambroise-firmin-std, serif;
